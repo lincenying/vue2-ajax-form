@@ -1,0 +1,19 @@
+{
+    "name": "vue2-ajax-form",
+    "version": "1.0.0",
+    "description": "vue2 ajax表单组件",
+    "main": "vue2-ajax-form.vue",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "vue2",
+        "ajax",
+        "form"
+    ],
+    "author": "lincenying",
+    "license": "MIT",
+    "devDependencies": {
+        
+    }
+}
