@@ -11,6 +11,7 @@ npm install vue2-ajax-form --save
         <input value="submit" type="submit" />
     </ajax-form>
 </template>
+<script>
 import ajaxForm from 'vue2-ajax-form'
 export default {
     data() {
@@ -45,5 +46,5 @@ export default {
         },
     }
 }
-
+</script>
 ```
